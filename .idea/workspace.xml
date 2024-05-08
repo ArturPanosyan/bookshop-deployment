@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4263cce-fa3b-420e-86d7-f801d10cb8d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docker/postgresql/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/rabbitmq/rabbitmq.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kubernetes/platform/development/services/postgresql.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kubernetes/platform/development/services/postgresql.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,11 @@
       <workItem from="1713882978042" duration="1602000" />
       <workItem from="1714250078160" duration="3453000" />
       <workItem from="1714503524286" duration="1071000" />
-      <workItem from="1714660342080" duration="456000" />
+      <workItem from="1714660342080" duration="3911000" />
+      <workItem from="1714726657476" duration="41000" />
+      <workItem from="1715025484904" duration="1941000" />
+      <workItem from="1715028888076" duration="459000" />
+      <workItem from="1715183225851" duration="274000" />
     </task>
     <servers />
   </component>
