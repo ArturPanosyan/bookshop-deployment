@@ -15,7 +15,7 @@ configMapGenerator:
 
 images:
   - name: dispatcher-service
-    newName: ghcr.io/shantdashjianeducation/dispatcher-service
+    newName: ghcr.io/ArturPanosyan/dispatcher-service
     newTag: latest
 
 replicas:

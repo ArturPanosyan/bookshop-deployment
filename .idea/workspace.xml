@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4263cce-fa3b-420e-86d7-f801d10cb8d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kubernetes/applications/catalog-service/production/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/applications/catalog-service/production/kustomization.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/applications/catalog-service/production/patch-env.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/applications/catalog-service/production/patch-resources.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/applications/catalog-service/production/patch-volumes.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/applications/catalog-service/staging/application-staging.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/applications/catalog-service/staging/kustomization.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/applications/catalog-service/staging/patch-env.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kubernetes/applications/order-service/staging/application-staging.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kubernetes/applications/order-service/staging/kustomization.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kubernetes/applications/order-service/staging/patch-env.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kubernetes/applications/dispatcher-service/staging/kustomization.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kubernetes/applications/dispatcher-service/staging/kustomization.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kubernetes/applications/edge-service/staging/kustomization.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kubernetes/applications/edge-service/staging/kustomization.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +94,7 @@
       <workItem from="1715263193915" duration="608000" />
       <workItem from="1715270387065" duration="1004000" />
       <workItem from="1715291092287" duration="819000" />
-      <workItem from="1716203529140" duration="665000" />
+      <workItem from="1716203529140" duration="988000" />
     </task>
     <servers />
   </component>
